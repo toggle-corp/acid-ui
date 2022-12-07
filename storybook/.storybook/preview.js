@@ -1,5 +1,3 @@
-import '@togglecorp/toggle-ui/build/index.css';
-
 export const parameters = {
   actions: { argTypesRegex: "^on[A-Z].*" },
   controls: {
